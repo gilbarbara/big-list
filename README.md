@@ -1,4 +1,7 @@
 big-list
 ========
 
-Technologies that you should learn (or at least now what it is about)
+Technologies that you should learn (or at least know about)
+
+- [X] jsPerf (http://jsperf.com/)
+- [ ] BenchmarkJS (http://benchmarkjs.com/)
